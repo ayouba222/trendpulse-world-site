@@ -1,0 +1,25 @@
+<!doctype html>
+
+<html lang="en">  
+  <head>  
+    <meta 
+name="google-site-verification" content="ExiXK7-l8asr8099wWQWHdDDi5H3AGoGHtopcITFTOU" />
+charset="UTF-8" />  
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />  
+    <title>TrendPulse World | What's Trending. What Matters. What's Next.</title>  
+    <meta name="description" content="TrendPulse World is a modern digital news platform covering U.S. news, world affairs, AI and technology, business, sports, entertainment, and trending stories." />  
+    <meta property="og:image" content="https://bolt.new/static/og_default.png" />  
+    <meta property="og:title" content="TrendPulse World" />  
+    <meta property="og:description" content="What's Trending. What Matters. What's Next." />  
+    <meta property="og:type" content="website" />  
+    <meta name="twitter:card" content="summary_large_image" />  
+    <meta name="twitter:image" content="https://bolt.new/static/og_default.png" />  
+    <meta name="twitter:title" content="TrendPulse World" />  
+    <meta name="twitter:description" content="What's Trending. What Matters. What's Next." />  
+  </head>  
+  <body>  
+    <div id="root"></div>  
+    <script type="module" src="/src/main.tsx"></script>  
+  </body>  
+</html>
