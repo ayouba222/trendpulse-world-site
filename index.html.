@@ -7,9 +7,9 @@
   content="ExiXK7-l8asr8099wWQWHdDDi5H3AGoGHtopcITFTOU"
 />
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
 <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
 <title>TrendPulse World | What's Trending. What Matters. What's Next.</title>
 
@@ -18,12 +18,12 @@
   content="TrendPulse World is a modern digital news platform covering U.S. news, world affairs, AI and technology, business, sports, entertainment, and trending stories."
 />
 
+<meta property="og:image" content="https://bolt.new/static/og_default.png" />
 <meta property="og:title" content="TrendPulse World" />
 <meta
   property="og:description"
   content="What's Trending. What Matters. What's Next."
 />
-<meta property="og:image" content="https://bolt.new/static/og_default.png" />
 <meta property="og:type" content="website" />
 
 <meta name="twitter:card" content="summary_large_image" />
